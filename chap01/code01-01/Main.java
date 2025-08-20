@@ -6,5 +6,6 @@ public class Main {
     h1.setMp(50);
 
     System.out.println(h1.toString());
+  	System.out.println("Test,commented here");
   }
 }
